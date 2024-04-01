@@ -106,19 +106,26 @@
     {
       "title": "Banner 01",
       "status": "active",
-      "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674146282/cuekp1moogxqvnzska2h.jpg",
+      "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971109/Banners/fresh_hy_roxjhl.png",
       "id": 1
     },
     {
       "title": "Banner 02",
       "status": "active",
-      "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674146323/xenbtsqi8vtqbsmy4ksx.jpg",
+      "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971107/Banners/temple_it_h3gsuq.png",
       "id": 2
     },
     {
       "title": "Banner 03",
       "status": "active",
-      "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674413912/cph4lwog7309ivxukzzm.jpg",
+      "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971115/Banners/sp_item_rad9md.png",
+      "id": 3
+    },
+    
+    {
+      "title": "Banner 04",
+      "status": "active",
+      "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971117/Banners/sweets_cpp1ss.png",
       "id": 3
     }
   ],
