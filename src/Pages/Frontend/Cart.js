@@ -27,7 +27,7 @@ const Cart = () => {
                 <div className="card align-self-end p-2 mt-3 me-3 mb-5" style={{width: '200px'}}>
                     <div className='mb-2 p-1'>
                         <span className='h5 me-1'>Total:</span>
-                        <span className='h5 fw-normal ms-1'>{total}$</span>
+                        <span className='h5 fw-normal ms-1'>Rs.{total}</span>
                     </div>
                     <Link
                      className='btn btn-sm btn-primary'
