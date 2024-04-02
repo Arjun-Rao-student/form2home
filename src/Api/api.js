@@ -1,6 +1,6 @@
 
 
-export const BASE_URL = `http://localhost:8000`;
+export const BASE_URL = https://form2home.vercel.app/;
 
 export const postConfigure = (data) => {
   return {
