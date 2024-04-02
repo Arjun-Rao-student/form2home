@@ -38,9 +38,9 @@ const Order = () => {
                                 <tr key={id}>
                                     <td>{id}</td>
                                     <td>{formatedDate}</td>
-                                    <td>{subTotal.toFixed(2)}$</td>
+                                    <td> Rs.{subTotal.toFixed(2)}</td>
                                     <td>{discountPercent}%</td>
-                                    <td>{total.toFixed(2)}$</td>
+                                    <td>Rs. {total.toFixed(2)}</td>
                                     <td>{status}</td>
                                 </tr>
                             )

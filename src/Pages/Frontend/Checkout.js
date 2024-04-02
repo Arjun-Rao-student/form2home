@@ -240,7 +240,7 @@ const Checkout = () => {
                 </div>
                 <div className='mt-1'>
                   <span className='fw-bold'>Sub-total :</span>
-                  <span className='ms-2'>{priceInfo.subTotal.toFixed(2)}$</span>
+                  <span className='ms-2'>Rs.{priceInfo.subTotal.toFixed(2)}</span>
                 </div>
                 <div className='mt-1'>
                   <span className='fw-bold'>Discount :</span>
@@ -248,7 +248,7 @@ const Checkout = () => {
                 </div>
                 <div className='mt-1'>
                   <span className='fw-bold'>Total :</span>
-                  <span className='ms-2'>{priceInfo.total.toFixed(2)}$</span>
+                  <span className='ms-2'>Rs.{priceInfo.total.toFixed(2)}</span>
                 </div>
             </div>
           </div>
