@@ -30,7 +30,7 @@ const OrdersTable = ({ orders }) => {
                   <th className="text-start">{customerName}</th>
                   <td>{customerEmail}</td>
                   <td>{formatedDate}</td>
-                  <td>{total.toFixed(2)}$</td>
+                  <td>Rs.{total.toFixed(2)}</td>
                   <td className="fw-bold">{status}</td>
                   <td>
                     <Link

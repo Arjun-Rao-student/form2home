@@ -20,7 +20,7 @@ const ProductEdit = () => {
     const { data: category } = useFetch(`${BASE_URL}/category`)
     const { data: product, error, loading } = useFetch(`${BASE_URL}/products/${id}`)
 
-    const initialState = { title:'', description:'', brand:'', status :'', category : '', image:'', price:'' }
+    const initialState = { title:'', description:'',  status :'', category : '', image:'', price:'' }
 
     const [ productData, setProductData ] = useState(initialState);
 
@@ -133,7 +133,7 @@ const ProductEdit = () => {
                 required
               />
             </div>
-            <div className="col-md-6">
+            {/* <div className="col-md-6">
               <label htmlFor="brand" className="form-label fw-bold">
                   Brand :
               </label>
@@ -146,7 +146,7 @@ const ProductEdit = () => {
                 onChange={handleChange}
                 required
               />
-            </div>
+            </div> */}
             <div className="col-md-6">
               <label htmlFor="price" className="form-label fw-bold">
                   Price :

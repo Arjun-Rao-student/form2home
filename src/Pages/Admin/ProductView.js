@@ -38,7 +38,7 @@ const ProductView = () => {
               <div className="fs-5">Status: {product.status}</div>
               <div className="fs-5">Price : {product.price}$</div>
               <div className="fs-5">Category : {product.category}</div>
-              <div className="fs-5 mb-3">Brand : {product.brand}</div>
+              {/* <div className="fs-5 mb-3">Brand : {product.brand}</div> */}
               <p className="lead mb-2">{product.description}</p>
               <Link
                 className="btn btn-outline-dark flex-shrink-0"

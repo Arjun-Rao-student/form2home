@@ -157,9 +157,9 @@ const OrderView = () => {
                             </span>
                           </div>
                         </td>
-                        <td>{price.toFixed(2)}$</td>
+                        <td>Rs.{price.toFixed(2)}</td>
                         <td>{quantity}</td>
-                        <td className="fw-bold">{total.toFixed(2)}$</td>
+                        <td className="fw-bold">Rs.{total.toFixed(2)}</td>
                       </tr>
                     );
                   })}
@@ -169,7 +169,7 @@ const OrderView = () => {
             <div className="align-self-end text-start mb-3 pe-2 pe-md-5">
               <div>
                 <span className="me-2 mb-2 fw-bold">Sub-total :</span>
-                <span>{order.subTotal.toFixed(2)}$</span>
+                <span>Rs.{order.subTotal.toFixed(2)}</span>
               </div>
               <div>
                 <span className="me-2 mb-2 fw-bold">Discount :</span>
@@ -177,7 +177,7 @@ const OrderView = () => {
               </div>
               <div>
                 <span className="me-2 fw-bold">Total :</span>
-                <span>{order.total.toFixed(2)}$</span>
+                <span>Rs.{order.total.toFixed(2)}</span>
               </div>
             </div>
           </div>

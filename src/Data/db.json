@@ -51,7 +51,7 @@
     {
       "username": "Guest User",
       "email": "guest@dummy.com",
-      "password": "12344321",
+      "password": "viet@viet",
       "image": "http://res.cloudinary.com/djorpdesu/image/upload/v1674138205/vxhdz4ogy6rljpk3zrgq.jpg",
       "totalSpent": 950,
       "status": "active",
@@ -154,14 +154,37 @@
       "status": "active",
       "id": 6
     }
-    
   ],
-  
+  "coupon": [
+    {
+      "coupon": "Logic",
+      "discount": 99,
+      "status": "active",
+      "id": 1
+    },
+    {
+      "coupon": "Logic54",
+      "discount": 54,
+      "status": "deactive",
+      "id": 2
+    },
+    {
+      "coupon": "Logic10",
+      "discount": 10,
+      "status": "deactive",
+      "id": 3
+    },
+    {
+      "coupon": "Logic20",
+      "discount": 20,
+      "status": "deactive",
+      "id": 4
+    }
+  ],
   "products": [
     {
       "title": "potato",
       "description": "Your perfect pack for everyday use and walks in the forest.\n\nStash your laptop (up to 15 inches) in the padded sleeve, your everyday.Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday\nYour perfect pack for everyday use and walks in the forest.",
-     
       "price": 109.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971933/assets/products/Potato_trlhjx.jpg",
@@ -171,7 +194,6 @@
     {
       "title": "Green chillies",
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. \nAnd Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      
       "price": 22.3,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971913/assets/products/Green_chillies_bzt4uz.jpg",
@@ -181,7 +203,6 @@
     {
       "title": "Beans",
       "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-     
       "price": 55.99,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971841/assets/products/Beans_bar7bg.jpg",
@@ -193,7 +214,6 @@
       "id": 4,
       "title": "Bitter-Gaurd",
       "price": 15.99,
-     
       "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971847/assets/products/bitter_gourd_le0heb.jpg"
@@ -201,7 +221,6 @@
     {
       "title": "Black-Brinjal",
       "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-     
       "price": 695,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971851/assets/products/Black_brinjal_keengk.jpg",
@@ -211,7 +230,6 @@
     {
       "title": "Bottle-gaurd",
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      
       "price": 168,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971856/assets/products/bottle_gourd_d7qxui.jpg",
@@ -221,7 +239,6 @@
     {
       "title": "Brinjal",
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-     
       "price": 9.99,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971862/assets/products/Brinjal_q9rd2d.jpg",
@@ -231,7 +248,6 @@
     {
       "title": "Brinjal_long_purple",
       "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-     
       "price": 10.99,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971867/assets/products/Brinjal_long_purple_wmgnte.jpg",
@@ -250,7 +266,6 @@
     {
       "title": "Capsicum",
       "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-    
       "price": 109,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971877/assets/products/Capsicum_hmrzm8.jpg",
@@ -260,7 +275,6 @@
     {
       "title": "Carrot",
       "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-      
       "price": 109,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971882/assets/products/Carrot_seeprw.jpg",
@@ -270,7 +284,6 @@
     {
       "id": 12,
       "title": "cauliflower",
-      
       "price": 114,
       "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
       "category": "vegetables",
@@ -280,7 +293,6 @@
     {
       "id": 13,
       "title": "cluster-bean",
-      
       "price": 599,
       "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
       "category": "vegetables",
@@ -290,7 +302,6 @@
     {
       "title": "cucumber",
       "description": "49 INCH ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-      
       "price": 999.99,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971898/assets/products/Cucumber_ud7yag.jpg",
@@ -300,7 +311,6 @@
     {
       "title": "Ginger",
       "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-      
       "price": 56.99,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971903/assets/products/Garlic_i36hoo.jpg",
@@ -310,7 +320,6 @@
     {
       "title": "Ginger",
       "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-      
       "price": 29.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971909/assets/products/Ginger_arykh3.jpg",
@@ -320,7 +329,6 @@
     {
       "title": "Greenpeas",
       "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-     
       "price": 39.99,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971918/assets/products/Green_peas_oyunyf.jpg",
@@ -330,7 +338,6 @@
     {
       "id": 18,
       "title": "Lady's Finger",
-      
       "price": 9.85,
       "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
       "category": "vegetables",
@@ -340,7 +347,6 @@
     {
       "title": " Onion",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971927/assets/products/Onion_fykbls.jpg",
@@ -350,7 +356,6 @@
     {
       "title": "Raw-Banana",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971938/assets/products/Raw_banana_fjvxxd.jpg",
@@ -360,7 +365,6 @@
     {
       "title": "Ridge-Gaurd",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971943/assets/products/ridge_gourd_thqma3.jpg",
@@ -370,7 +374,6 @@
     {
       "title": "Snake-gaurd",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971948/assets/products/snake_guard_fnrxpx.jpg",
@@ -380,7 +383,6 @@
     {
       "title": "Tapioca",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971953/assets/products/Tapioca_q39bb8.jpg",
@@ -390,7 +392,6 @@
     {
       "title": "Tindora",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971957/assets/products/Tindora_nvsgbo.jpg",
@@ -400,7 +401,6 @@
     {
       "title": "Yam",
       "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      
       "price": 7.95,
       "category": "vegetables",
       "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971967/assets/products/Yam_zxkwlh.jpg",
@@ -538,7 +538,32 @@
       "customerName": "Guest User",
       "customerEmail": "guest@dummy.com",
       "date": "2023-01-19T17:46:01.731Z",
-      "coupon": "Logic10",
+      "coupon": [
+        {
+          "coupon": "Logic",
+          "discount": 99,
+          "status": "active",
+          "id": 1
+        },
+        {
+          "coupon": "Logic54",
+          "discount": 54,
+          "status": "active",
+          "id": 2
+        },
+        {
+          "coupon": "Logic10",
+          "discount": 10,
+          "status": "active",
+          "id": 3
+        },
+        {
+          "coupon": "Logic20",
+          "discount": 20,
+          "status": "active",
+          "id": 4
+        }
+      ],
       "discountPercent": 10,
       "subTotal": 1613,
       "total": 1451.7,
@@ -824,6 +849,36 @@
       ],
       "status": "pending",
       "id": 8
+    },
+    {
+      "customerId": 4,
+      "customerName": "arjun",
+      "customerEmail": "225@gmail.com",
+      "date": "2024-04-02T13:52:05.371Z",
+      "coupon": "",
+      "discountPercent": 0,
+      "subTotal": 109.95,
+      "total": 109.95,
+      "deliveryInfo": {
+        "name": "arjun",
+        "phone": "0000000000",
+        "house": "12",
+        "street": "svfsf",
+        "state": "sfsdf",
+        "country": "sfsdf"
+      },
+      "products": [
+        {
+          "id": 1,
+          "title": "potato",
+          "price": 109.95,
+          "image": "https://res.cloudinary.com/dvacqwwmo/image/upload/v1711971933/assets/products/Potato_trlhjx.jpg",
+          "quantity": 1,
+          "total": 109.95000000000003
+        }
+      ],
+      "status": "active",
+      "id": 9
     }
   ]
 }
