@@ -120,13 +120,13 @@ const Login = () => {
                                   >
                                       Submit
                                   </button>
-                                  <button
+                                  {/* <button
                                     className='ms-3 btn btn-sm btn-success'
                                     type='button'
                                     onClick={dummyLogin}
                                   >
                                     Dummy Login
-                                  </button>
+                                  </button> */}
                               </form>
                               <div className='mt-3 text-center'>
                                 <span>don't have a account? </span>
